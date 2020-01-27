@@ -1,4 +1,4 @@
-# jhipster-entity [![NPM version][npm-image]][npm-url] [![Build Status][github-actions-image]][github-actions-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# jhipster-entity
 > JHipster module to enable entity auditing and to add audit log page
 
 ## Usage
